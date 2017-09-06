@@ -7,7 +7,7 @@ package Backend;
 
 import java.util.ArrayList;
 
-public class lass {
+public class Class {
 
     //variables
     private ArrayList<Group> groupList
